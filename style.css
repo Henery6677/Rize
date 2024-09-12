@@ -1,0 +1,103 @@
+.Top{
+   
+}
+
+.left{
+   
+    display: inline-block;
+    width: 20%;
+}
+
+.logo{
+    width: 15%;
+    border-radius: 50%;
+}
+
+.right{
+   
+    display: inline-block;
+    width: 55%;
+    
+}
+
+.menuitem{
+    margin-right: 20px;
+    text-decoration: none;
+    color: blacks;
+}
+
+.Bottom{
+    display:flex ;
+    justify-content: center;
+  
+}
+
+.bottomimge{
+    width: 2000px;
+    height: 600px;
+    display: block;
+
+}
+.center{
+    background-color: blue;
+}
+
+
+
+.Rize{
+    color: red;
+    text-align:center;
+    display: block;
+}
+
+.cnimg{
+    width: 15%;
+    margin-bottom: 40px;
+    display: inline-block;
+    border-radius: 300px;
+
+}
+
+.pgimg{
+    width: 15%;
+    margin-bottom: 40px;
+    display: inline-block;
+    border-radius: 300px;
+
+}
+
+.jkimg{
+    width: 15%;
+    margin-bottom: 40px;
+    display: inline-block;
+    border-radius: 300px;
+}
+
+.oct{
+    display: inline-block;
+    text-align: center;
+}
+
+.TT1{
+    display: inline-block;
+    text-align: center;
+}
+
+.TT2{
+    display: inline-block; 
+    text-align: center;
+}
+
+.TT3{
+    display: inline-block;
+    text-align: center;
+}
+
+.toc{
+    display: inline-block;
+    text-align: center;
+}
+
+.cot{
+    display: inline-block;
+    text-align: center;
